@@ -71,9 +71,8 @@ public class Main {
         var totalWorkTime = numberOfEmployees * 8 ;
         System.out.println("Если в компании работает " + numberOfEmployees +
                 " человек, то всего " + totalWorkTime + " часов может быть поделено между сотрудниками") ;
-
-
-
+        System.out.println(" ");
+        System.out.println("Домашнее задание по теме 'Переменные, часть 1' выполнено");
 
     }
 }
